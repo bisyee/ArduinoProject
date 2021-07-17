@@ -46,5 +46,5 @@ I used this display and connected it with the push button to perform password fo
 
 # NOTE: 
 
-Some of the information about the parts of the houses are used from the official page for Arduino Smart House.
+Some of the information about the parts of the house are used from the official page for Arduino Smart House.
 https://wiki.keyestudio.com/Main_Page
