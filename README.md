@@ -3,6 +3,8 @@
 # Introduction
 
 In this workspace I have 7 projects all connected with a smart arduino house.
+# Video of the project
+https://youtu.be/JBUMmXy2uHM
 
 # Connection 
 
